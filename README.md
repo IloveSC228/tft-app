@@ -1,7 +1,7 @@
 # 仓库描述
 s10 云顶之弈阵容助手
-包括阵容推荐，英雄装备羁绊资料库，
-可自己添加阵容
+
+包括阵容推荐，英雄装备羁绊资料库，我的阵容，实战助手
 
 ## 代码结构 entry/src/main/ets/
 - `entryablity` —— 程序入口和标准生成
@@ -41,3 +41,47 @@ s10 云顶之弈阵容助手
 ![image](https://github.com/IloveSC228/tft-app/blob/main/images/%E5%9B%BE%E7%89%872.png)
 
 ## 页面展示
+### 推荐阵容
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/tuijian1.png" alt="tuijian1" style="width: 30%;">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/tuijian2.png" alt="tuijian2" style="width: 30%;">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/tuijian3.png" alt="tuijian3" style="width: 30%;">
+</div>
+
+### 资料库
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/ziliaoku1.png" alt="Image 1" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/ziliaoku2.png" alt="Image 2" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/ziliaoku3.png" alt="Image 3" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/ziliaoku4.png" alt="Image 4" style="width: 22%; margin: 1%">
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/ziliaoku5.png" alt="Image 1" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/ziliaoku6.png" alt="Image 2" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/ziliaoku7.png" alt="Image 3" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/ziliaoku8.png" alt="Image 4" style="width: 22%; margin: 1%">
+</div>
+
+### 我的阵容
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/wode1.png" alt="Image 1" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/wode2.png" alt="Image 2" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/wode3.png" alt="Image 3" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/wode4.png" alt="Image 4" style="width: 22%; margin: 1%">
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/wode5.png" alt="Image 1" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/wode6.png" alt="Image 2" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/wode7.png" alt="Image 3" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/wode8.png" alt="Image 4" style="width: 22%; margin: 1%">
+</div>
+
+### 实战助手
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/shizhan1.png" alt="Image 1" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/shizhan2.png" alt="Image 2" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/shizhan3.png" alt="Image 3" style="width: 22%; margin: 1%">
+  <img src="https://github.com/IloveSC228/tft-app/blob/main/images/shizhan4.png" alt="Image 4" style="width: 22%; margin: 1%">
+</div>
