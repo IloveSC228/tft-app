@@ -37,4 +37,7 @@ s10 云顶之弈阵容助手
   - `base` —— 基础资源
   - `media` —— 包含所有英雄、装备和强化符文的图标
 
+## 流程图
+![image](https://github.com/IloveSC228/tft-app/blob/main/images/%E5%9B%BE%E7%89%872.png)
+
 ## 页面展示
