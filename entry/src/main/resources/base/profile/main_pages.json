@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/mainPage",
+    "pages/splashPage",
+    "pages/shiZhanZhuShou"
+  ]
+}

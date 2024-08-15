@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "因为热爱，所以云顶"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "掌上云顶助手"
+    }
+  ]
+}
