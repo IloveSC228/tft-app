@@ -3,7 +3,7 @@ s10 云顶之弈阵容助手
 包括阵容推荐，英雄装备羁绊资料库，
 可自己添加阵容
 
-## 代码结构 entry/source/ets/
+## 代码结构 entry/src/main/ets/
 - `entryablity` —— 程序入口和标准生成
   - `EntryAbility.ts` —— 程序启动入口
 
